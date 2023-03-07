@@ -1,12 +1,11 @@
 markdown: kramdown
 kramdown:
   input: GFM
+  extensions:
+    - autolink
 commonmark:
-   extensions:
-     - autolink
+  extensions:
+    - autolink
 redcarpet:
-   extensions:
-     - autolink
-kramdown:
-   extensions:
-     - autolink
+  extensions:
+    - autolink
