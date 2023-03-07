@@ -3,4 +3,7 @@ kramdown:
   input: GFM
 commonmark:
    extensions:
-   - autolink
+     - autolink
+redcarpet:
+   extensions:
+     - autolink
