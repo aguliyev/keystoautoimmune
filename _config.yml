@@ -7,3 +7,6 @@ commonmark:
 redcarpet:
    extensions:
      - autolink
+kramdown:
+   extensions:
+     - autolink
