@@ -18,5 +18,5 @@ by Anar R Guliyev, M.D. [www.keystoautoimmune.com](https://keystoautoimmune.com/
 - [Appendix 1: Literature.](a1.md)
 - [Appendix 2: Color Illustrations and Videos Demonstrations.](a2.md)
 - [Bonus 1: Lists of foods by probability of causing problems to the gut-microbiome-immunity ecosystem.](https://bonus.keystoautoimmune.com/)
-- [Bonus 2: Fermented Food Probiotics.](https://bonus.keystoautoimmune.com/)
+- [Bonus 2: The Art of Fermentation: Delicious Vegetable and Dairy Probiotics Recipes.](https://bonus.keystoautoimmune.com/)
 - [Bonus 3: Complete Mind Map of 5R+ Keys and Tactics.](https://bonus.keystoautoimmune.com/)
