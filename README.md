@@ -15,8 +15,8 @@ by Anar R Guliyev, M.D. [www.keystoautoimmune.com](https://keystoautoimmune.com/
 - Key 4. Lazy gut: Reawaken.
 - Key 5. Factors Beyond Digestive System: Recondition
 - Conclusion
-- [Appendix 1: Literature.](a1.md)
-- [Appendix 2: Color Illustrations and Videos Demonstrations.](a2.md)
+- [Appendix 1: Color Illustrations and Videos Demonstrations.](a1.md)
+- [Appendix 2: Literature.](a2.md)
 - [Bonus 1: Lists of foods by probability of causing problems to the gut-microbiome-immunity ecosystem.](https://bonus.keystoautoimmune.com/)
 - [Bonus 2: The Art of Fermentation: Delicious Vegetable and Dairy Probiotics Recipes.](https://bonus.keystoautoimmune.com/)
 - [Bonus 3: Complete Mind Map of 5R+ Keys and Tactics.](https://bonus.keystoautoimmune.com/)
